@@ -1,6 +1,6 @@
 <div align="center">
 
-# NGUYEN DAC HAI
+# Võ Văn Huân
 
 ### Fullstack Developer | Software Tester / QA Intern | Computer Science Student
 
